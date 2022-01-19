@@ -1,3 +1,10 @@
 ig1.txt
 ig2.txt
-*.lod
+
+# file type ignoring
+*.log
+
+# test
+m*
+
+./folder1
