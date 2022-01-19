@@ -4,7 +4,9 @@ ig2.txt
 # file type ignoring
 *.log
 
-# test
-m*
 
+m**
+!mehdi*
+
+# file type ignoring
 folder1/
