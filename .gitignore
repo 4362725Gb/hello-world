@@ -3,6 +3,7 @@ ig2.txt
 
 # file type ignoring
 *.log
+/*.md
 
 # test
 m*
