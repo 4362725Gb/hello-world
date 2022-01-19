@@ -1,5 +1,6 @@
 ig1.txt
 ig2.txt
+file1_git.txt
 
 # file type ignoring
 *.log
